@@ -1,0 +1,21 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Hanlding Updates
+-----------------------------------------------------------------*/
+
+/* MY ADD */
+.logomain{
+	margin-top: 10px;
+	width: 90% !important;
+}
+
+.portfolio-img.rounded{
+	height: 250px !important;
+	display: flex;
+	align-items: center;
+}
+.portfolio-box.rounded{
+	height: 250px !important;
+}
